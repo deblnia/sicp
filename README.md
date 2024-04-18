@@ -3,7 +3,7 @@
 Learning to program but for real this time
 
 - Book: https://sarabander.github.io/sicp/html/index.xhtml
-- VSCode Racket setup curtesy of [0li](https://github.com/oli-clive-griffin), and reproduced below! 
+- VSCode Racket setup curtesy of [Oli](https://github.com/oli-clive-griffin), and reproduced below! 
 
   1. [install racket](https://download.racket-lang.org/)
   2. add path/to/racket/bin to your PATH so that the racket executables are available
